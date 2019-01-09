@@ -64,7 +64,7 @@ new Vue({
 ```
 $emit , props
 ```
-![Emit & Props](./img/01.png "Parent, Child")
+![Emit & Props](http://git.wz3.bet/howard.hung/Vue_document/raw/branch/master/img/01.png "Parent, Child")
 > **參考文獻**  
 > * [ 关于$emit的用法 ](https://blog.csdn.net/sllailcp/article/details/78595077)    
 > * [ 父子組件溝通 - $emit/$on ](https://jeremysu0131.github.io/Vue-js-%E7%88%B6%E5%AD%90%E7%B5%84%E4%BB%B6%E6%BA%9D%E9%80%9A-emit-on/)    
