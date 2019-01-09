@@ -1,5 +1,5 @@
 # Overview
-> * [ 環境架設及指令 ] (http://git.wz3.bet/howard.hung/Vue_document#%E7%92%B0%E5%A2%83%E6%9E%B6%E8%A8%AD%E5%8F%8A%E6%8C%87%E4%BB%A4)
+> * [ 環境架設及指令 ](http://git.wz3.bet/howard.hung/Vue_document#%E7%92%B0%E5%A2%83%E6%9E%B6%E8%A8%AD%E5%8F%8A%E6%8C%87%E4%BB%A4)
 > * [ 重點分析 ] (http://git.wz3.bet/howard.hung/Vue_document#%E9%87%8D%E9%BB%9E%E5%88%86%E6%9E%90)
 >   * 指令縮寫  
 >   * 列表渲染  
