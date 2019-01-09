@@ -34,8 +34,8 @@ v-model, v-for, v-show, v-if & v-else, @ click
 ```
 
 - ### 列表渲染
-> * v-for使用 ( [v-for & key] (https://cn.vuejs.org/v2/guide/list.html#key), [v-for & v-if] (https://cn.vuejs.org/v2/guide/list.html#v-for-with-v-if))
-> * 變異方法 [ ( push(), splice(), reverse() ...) ] (https://cn.vuejs.org/v2/guide/list.html#%E5%8F%98%E5%BC%82%E6%96%B9%E6%B3%95)
+> * v-for使用 ( [v-for & key](https://cn.vuejs.org/v2/guide/list.html#key), [v-for & v-if](https://cn.vuejs.org/v2/guide/list.html#v-for-with-v-if))
+> * 變異方法 [ ( push(), splice(), reverse() ...) ](https://cn.vuejs.org/v2/guide/list.html#%E5%8F%98%E5%BC%82%E6%96%B9%E6%B3%95)
 
 - ### 組件(重覆使用)
 ```
